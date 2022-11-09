@@ -46,6 +46,10 @@ namespace _3_CS_Basic
             
             string은 "hello world"
             +를 이용하여 문자열끼리 합치는 연산이 가능.
+
+            -주의점-
+
+            문자열이 아니더라도 문자열 + (다른자료형) 이면 해당 다른자료형이 "문자열"로 형변환되어 합쳐짐
              */
             System.Char ch_1 = '\t';
             System.Char ch_2 = 'O';
@@ -66,7 +70,6 @@ namespace _3_CS_Basic
             System.Boolean lie = true;
             Console.WriteLine(lie);
 
-            4
         }
     }
 }
