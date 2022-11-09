@@ -1,0 +1,7 @@
+C:\GIT\CS\BasicCS\BasicCS\bin\Debug\BasicCS.exe.config
+C:\GIT\CS\BasicCS\BasicCS\bin\Debug\BasicCS.exe
+C:\GIT\CS\BasicCS\BasicCS\bin\Debug\BasicCS.pdb
+C:\GIT\CS\BasicCS\BasicCS\obj\Debug\BasicCS.csproj.AssemblyReference.cache
+C:\GIT\CS\BasicCS\BasicCS\obj\Debug\BasicCS.csproj.CoreCompileInputs.cache
+C:\GIT\CS\BasicCS\BasicCS\obj\Debug\BasicCS.exe
+C:\GIT\CS\BasicCS\BasicCS\obj\Debug\BasicCS.pdb
