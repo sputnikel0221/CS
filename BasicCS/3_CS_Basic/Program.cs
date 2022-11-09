@@ -13,7 +13,8 @@ namespace _3_CS_Basic
             /*1 - 정수형
             정수에는 sbyte(부호있는8)가 있고, 부호없음은 byte
             short-16 int-32 long-64 가 있고, 부호 없는건 u만 붙임
-            CLI언어에서 호환하기 위해 System.Int32로 쓰기도 한다*/
+            
+            ** CLI언어에서 호환하기 위해 System.Int32로 쓰기도 한다 ** */
 
             sbyte n_1 = 10;
             sbyte n_2 = 20;
@@ -28,7 +29,7 @@ namespace _3_CS_Basic
              실수에는 float-4 double-8 decimal-16이 있고,
             System.Single/Double/Decimal로 바꿀 수도 있다.
             
-            -주의점-
+            ** 주의점 **
             float의 경우, 값에 f를 붙여야한다. decimal의 경우이면서 소숫점이 있는 값일 경우, m을 붙여야 한다.
              */
 
@@ -47,8 +48,7 @@ namespace _3_CS_Basic
             string은 "hello world"
             +를 이용하여 문자열끼리 합치는 연산이 가능.
 
-            -주의점-
-
+            ** 주의점 **
             문자열이 아니더라도 문자열 + (다른자료형) 이면 해당 다른자료형이 "문자열"로 형변환되어 합쳐짐
              */
             System.Char ch_1 = '\t';
