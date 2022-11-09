@@ -1,0 +1,7 @@
+C:\GIT\CS\BasicCS\3_CS_Basic\bin\Debug\3_CS_Basic.exe.config
+C:\GIT\CS\BasicCS\3_CS_Basic\bin\Debug\3_CS_Basic.exe
+C:\GIT\CS\BasicCS\3_CS_Basic\bin\Debug\3_CS_Basic.pdb
+C:\GIT\CS\BasicCS\3_CS_Basic\obj\Debug\3_CS_Basic.csproj.AssemblyReference.cache
+C:\GIT\CS\BasicCS\3_CS_Basic\obj\Debug\3_CS_Basic.csproj.CoreCompileInputs.cache
+C:\GIT\CS\BasicCS\3_CS_Basic\obj\Debug\3_CS_Basic.exe
+C:\GIT\CS\BasicCS\3_CS_Basic\obj\Debug\3_CS_Basic.pdb
