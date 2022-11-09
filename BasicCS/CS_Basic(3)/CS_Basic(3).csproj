@@ -7,7 +7,7 @@
     <ProjectGuid>{AE5A8E76-3E84-449F-A440-06E40CE4B50F}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>CS_Basic_3_</RootNamespace>
-    <AssemblyName>CS_Basic_3_</AssemblyName>
+    <AssemblyName>CS_Basic%283%29</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
