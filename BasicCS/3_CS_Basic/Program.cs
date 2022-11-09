@@ -66,7 +66,7 @@ namespace _3_CS_Basic
             System.Boolean lie = true;
             Console.WriteLine(lie);
 
-
+            4
         }
     }
 }
