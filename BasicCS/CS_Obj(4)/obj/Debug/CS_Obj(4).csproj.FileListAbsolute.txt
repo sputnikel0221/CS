@@ -1,0 +1,7 @@
+C:\GIT\CS\BasicCS\CS_Obj(4)\bin\Debug\CS_Obj(4).exe.config
+C:\GIT\CS\BasicCS\CS_Obj(4)\bin\Debug\CS_Obj(4).exe
+C:\GIT\CS\BasicCS\CS_Obj(4)\bin\Debug\CS_Obj(4).pdb
+C:\GIT\CS\BasicCS\CS_Obj(4)\obj\Debug\CS_Obj(4).csproj.CoreCompileInputs.cache
+C:\GIT\CS\BasicCS\CS_Obj(4)\obj\Debug\CS_Obj(4).exe
+C:\GIT\CS\BasicCS\CS_Obj(4)\obj\Debug\CS_Obj(4).pdb
+C:\GIT\CS\BasicCS\CS_Obj(4)\obj\Debug\CS_Obj(4).csproj.AssemblyReference.cache
