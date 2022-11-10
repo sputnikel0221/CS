@@ -1,0 +1,6 @@
+C:\GIT\CS\BasicCS\CS_Obj(3)\bin\Debug\CS_Obj(3).exe.config
+C:\GIT\CS\BasicCS\CS_Obj(3)\bin\Debug\CS_Obj(3).exe
+C:\GIT\CS\BasicCS\CS_Obj(3)\bin\Debug\CS_Obj(3).pdb
+C:\GIT\CS\BasicCS\CS_Obj(3)\obj\Debug\CS_Obj(3).csproj.CoreCompileInputs.cache
+C:\GIT\CS\BasicCS\CS_Obj(3)\obj\Debug\CS_Obj(3).exe
+C:\GIT\CS\BasicCS\CS_Obj(3)\obj\Debug\CS_Obj(3).pdb

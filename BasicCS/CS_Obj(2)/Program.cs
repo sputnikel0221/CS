@@ -51,11 +51,3 @@ namespace CS_Obj_2_
  * 그 후에야 Main에서 작성한 class생성자가 호출이 된다.
  */
 
-/*  namespace
- * namespace 내부에 같은 이름의 변수가 있을 순 없다.
- * 그래서 namespace를 여러개 생성하고 쓰곤 하고,
- * 다른 namespace의 클래스를 불러와 쓸 수 있다.
- * 
- * namespace안에 namespace를 또 둘 수 있어서
- * 그냥 카테고리 분류식으로 문맥상 분류하는 느낌인 것 같다.
- */
