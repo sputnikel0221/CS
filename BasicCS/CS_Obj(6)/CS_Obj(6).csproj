@@ -7,7 +7,7 @@
     <ProjectGuid>{3D49988E-3794-48E3-9881-E021EC927E7B}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>CS_Obj_6_</RootNamespace>
-    <AssemblyName>CS_Obj_6_</AssemblyName>
+    <AssemblyName>CS_Obj%286%29</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
