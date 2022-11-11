@@ -1,0 +1,7 @@
+C:\GIT\CS\BasicCS\CS_Obj(7)\bin\Debug\CS_Obj(7).exe.config
+C:\GIT\CS\BasicCS\CS_Obj(7)\bin\Debug\CS_Obj(7).exe
+C:\GIT\CS\BasicCS\CS_Obj(7)\bin\Debug\CS_Obj(7).pdb
+C:\GIT\CS\BasicCS\CS_Obj(7)\obj\Debug\CS_Obj(7).csproj.AssemblyReference.cache
+C:\GIT\CS\BasicCS\CS_Obj(7)\obj\Debug\CS_Obj(7).csproj.CoreCompileInputs.cache
+C:\GIT\CS\BasicCS\CS_Obj(7)\obj\Debug\CS_Obj(7).exe
+C:\GIT\CS\BasicCS\CS_Obj(7)\obj\Debug\CS_Obj(7).pdb
