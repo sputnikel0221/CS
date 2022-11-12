@@ -1,0 +1,7 @@
+C:\GIT\CS\BasicCS\CS_Obj(11)\bin\Debug\CS_Obj(11).exe.config
+C:\GIT\CS\BasicCS\CS_Obj(11)\bin\Debug\CS_Obj(11).exe
+C:\GIT\CS\BasicCS\CS_Obj(11)\bin\Debug\CS_Obj(11).pdb
+C:\GIT\CS\BasicCS\CS_Obj(11)\obj\Debug\CS_Obj(11).csproj.AssemblyReference.cache
+C:\GIT\CS\BasicCS\CS_Obj(11)\obj\Debug\CS_Obj(11).csproj.CoreCompileInputs.cache
+C:\GIT\CS\BasicCS\CS_Obj(11)\obj\Debug\CS_Obj(11).exe
+C:\GIT\CS\BasicCS\CS_Obj(11)\obj\Debug\CS_Obj(11).pdb
