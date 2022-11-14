@@ -32,6 +32,8 @@ namespace CS_Obj_10_
     //추상클래스를 상속받으면 부모에서 구현하지 않은 추상 메서드를 "반드시" 구현해야한다
     //virtual-override와 같은점은 우선 override한 메서드가 우선적으로 실행된다는 것이고, 
     //다른점은, 해당 abstract-override는 부모의 메서드가 아예 정의되지 않은 점이다.
+    //      +
+    //virtual은 그냥 override용으로, 일단 구현해놓는데 구현하고 싶으면 구현해라 명시하는 것 // abstract는 설계도 느낌으로 그냥 비워놓고 자식아 니가 구현해라 라고 주는 것
     class Army : Troop
     {
         public override void Fight()

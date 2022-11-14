@@ -11,7 +11,7 @@ using System.Threading.Tasks;
  * ~163p. 이해가 잘 안된다..
  * 
  * 다형성 - 오버라이딩 / 오버로딩
- * 오버라이딩 - 상속받는 객체에서 부모의 메소드르르 재정의하는 것
+ * 오버라이딩 - 상속받는 객체에서 부모의 메소드를 재정의하는 것
  * 
  * 메소드를 재정의하여 쓰고 싶다면 virtual/override를 사용하고,
  * 그냥 의미상 메소드 이름만 동일하게 사용하고 싶다면 new를 사용하면 된다.
@@ -40,7 +40,7 @@ namespace CS_Obj_9_
         }
     }
 
-    //virtual/override 사용
+    //virtual-override 사용
     class Hero : Movie
     {
         override public void Show()
