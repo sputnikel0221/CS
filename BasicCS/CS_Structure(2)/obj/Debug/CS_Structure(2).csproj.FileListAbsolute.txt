@@ -1,0 +1,6 @@
+C:\GIT\CS\BasicCS\CS_Structure(2)\bin\Debug\CS_Structure(2).exe.config
+C:\GIT\CS\BasicCS\CS_Structure(2)\bin\Debug\CS_Structure(2).exe
+C:\GIT\CS\BasicCS\CS_Structure(2)\bin\Debug\CS_Structure(2).pdb
+C:\GIT\CS\BasicCS\CS_Structure(2)\obj\Debug\CS_Structure(2).csproj.CoreCompileInputs.cache
+C:\GIT\CS\BasicCS\CS_Structure(2)\obj\Debug\CS_Structure(2).exe
+C:\GIT\CS\BasicCS\CS_Structure(2)\obj\Debug\CS_Structure(2).pdb
